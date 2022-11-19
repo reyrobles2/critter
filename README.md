@@ -78,3 +78,8 @@ Each entry in this collection contains information in its `Body` tab if necessar
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md]()
+
+
+Acknowledgement to the following sources:
+
+Udacity - Cognizant Full Stack Developer Nanodegree Program https://www.udacity.com/; Java https://www.java.com/; Stack Overflow https://stackoverflow.com/; GitHub users https://github.com; Baeldung https://www.baeldung.com/; Tutorialspoint https://www.tutorialspoint.com/; GeeksforGeeks https://www.geeksforgeeks.org/; javaTpoint https://www.javatpoint.com/
